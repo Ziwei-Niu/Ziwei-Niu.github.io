@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziwei Niu (牛子未)"
-description              : "Ph.D student in Zhejiang University GIVE Lab. Focusing on transfer learning, medical image analysis and multi-modal learning."
+description              : "Research Fellow at Department of Biomedical Engineering at National University of Singapore. Focusing on transfer learning, medical image analysis and multi-modal learning."
 repository               : "Ziwei-Niu/nzw.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziwei Niu (牛子未)"
-  avatar           : "images/niu.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  avatar           : "images/niuziwei2_2.jpg"
+  bio              : "National University of Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=YQQPZ6gAAAAJ"
