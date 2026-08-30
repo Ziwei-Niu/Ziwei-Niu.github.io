@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the Department of Biomedical Engineering, National University of Singapore (NUS), working with Prof. [Yueming Jin](https://cde.nus.edu.sg/bme/staff/jin-yueming/). I received my Ph.D. degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by Prof. [Lanfen Lin (林兰芬)](http://give.zju.edu.cn/en/memberHomepage/LinLanfen.html). Before that, I received my bachelor's degree from the College of Information and Computer Science, Anhui Agricultural University (安徽农业大学信息与计算机学院).
+I am currently a Research Fellow at the Department of Biomedical Engineering, National University of Singapore (NUS), working with Prof. [Yueming Jin (金玥明)](https://yuemingjin.github.io). I received my Ph.D. degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University (ZJU), advised by Prof. [Lanfen Lin (林兰芬)](http://give.zju.edu.cn/en/memberHomepage/LinLanfen.html). Before that, I received my bachelor's degree from the College of Information and Computer Science, Anhui Agricultural University (AHAU).
 
 My research interests include medical image analysis, domain adaptation, domain generalization, foundation models for medical image analysis, and multi-modal learning.
 
