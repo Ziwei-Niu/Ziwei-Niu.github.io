@@ -66,29 +66,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IJCAI 2023``</span> SLViT: Scale-wise Language-guided Vision Transformer for Referring Image Segmentation. Shuyi Ouyang, Hongyi Wang, Shiao Xie, **Ziwei Niu**, Ruofeng Tong, Yen-Wei Chen, Lanfen Lin.
 
-# 🔬 Research Experience
-
-- *2022.12 - 2025.11*, Prediction of Disease Progression in Rheumatoid Arthritis Based on Multimodal Fusion, National Key Research and Development Program of China.  
-  This project focuses on disease activity prediction and disease progression prediction for rheumatoid arthritis by fusing clinical, imaging, and biological data.
-
-- *2023.03 - 2023.08*, Single-source Domain Generalization for Medical Image Segmentation.  
-  This project studies invariant representation learning for robust medical image segmentation across centers and modalities.
-
-- *2022.11 - 2023.04*, Semi-supervised Domain Generalization for Medical Image Segmentation.  
-  This project explores semi-supervised domain generalization with semantic and style memory banks to improve cross-domain medical image segmentation.
-
-- *2022.05 - 2022.10*, A Unified Framework for Federated Domain Adaptation and Generalization.  
-  This project investigates privacy-preserving domain adaptation and domain generalization under federated learning settings.
-
-- *2021.11 - 2022.06*, Domain-invariant Representation Learning for Multi-source Domain Generalization.  
-  This project designs knowledge distillation strategies to learn domain-invariant representations while preserving useful domain-specific information.
-
-# 🧩 Patents
-
-- A single-domain generalization method for medical image segmentation. App. No.: CN202310129544.7. Contributor Rank: Second Inventor.
-- Rheumatoid Arthritis Activity Grading Device Based on Multimodal Data. App. No.: CN202310755346.1. Contributor Rank: Second Inventor.
-- A domain generalization method for image classification at test time. App. No.: CN202211707585.1. Contributor Rank: Third Inventor.
-- A semi-supervised medical image segmentation method based on Transformer-CNN interaction. App. No.: CN202310129552.1. Contributor Rank: Third Inventor.
 
 # 🎖 Honors and Awards
 
